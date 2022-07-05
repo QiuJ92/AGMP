@@ -1,2 +1,1 @@
-# AGMP
-AutoGluon with multi-label prediction
+# AGMP: AutoGluon with multi-label prediction
