@@ -11,9 +11,9 @@ AGMP was employed to predict TEMPO-catalyzed primary alcohol oxidations. Disting
 ### Running the code
 
 
-+ model training and test : Oxidation_AGMP_1896_240.ipynb
++ model training and test : Oxidation_AGMP_main.ipynb
 
-+ test on external_test set  : Oxidation_AGMP_2136_1308.ipynb
++ test on external_test set  : Oxidation_AGMP_external_test.ipynb
 
 ### Setup Instructions
 
