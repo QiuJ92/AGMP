@@ -21,7 +21,8 @@ jupyter  Oxidation_AGMP_2136_1308.ipynb
 ```
 ### Setup Instructions
 
-Before running the codes on your own machine, please install AutoGluon at https://auto.gluon.ai/stable/index.html.
+Please install AutoGluon according to  https://auto.gluon.ai/stable/install.html.
+
 You'll also need to pip install sklearn, numpy, pandas and matplotlib.
 
 ```
