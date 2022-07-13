@@ -1,4 +1,4 @@
-# AGMP: AutoGluon with multi-label prediction
+# AGMP: AutoGluon based multi-label prediction
 AGMP was employed to predict TEMPO-catalyzed primary alcohol oxidations. Distinguished from other ML models, AGMP calssifed the reaction as reactive (Y) or non-reactive (N) at first, then output predicted yields as regression results with the new generated ‘Y/N’ descriptor.
 ### Files in the folder
 
